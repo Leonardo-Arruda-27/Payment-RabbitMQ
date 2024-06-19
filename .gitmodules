@@ -1,0 +1,6 @@
+[submodule "Consumer"]
+	path = Consumer
+	url = https://github.com/Leonardo-Arruda-27/Consumer-Payment-RabbitMQ.git
+[submodule "Producer"]
+	path = Producer
+	url = https://github.com/Leonardo-Arruda-27/Producer-Payment-RabbitMQ.git
